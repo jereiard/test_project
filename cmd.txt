@@ -1,1 +1,2 @@
 * masterorigin* remote origin<br>  Fetch URL: git@github.com:jereiard/test_project.git<br>  Push  URL: git@github.com:jereiard/test_project.git<br>  HEAD branch: (not queried)<br>  Remote branch: (status not queried)<br>    master<br>  Local branch configured for 'git pull':<br>    master merges with remote master<br>  Local ref configured for 'git push' (status not queried):<br>    (matching) pushes to (matching)## master...origin/master [ahead 1]<br>?? cmd.txt
+print
